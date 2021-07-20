@@ -1,0 +1,10 @@
+/* This houses the styling for the MovieList Component */
+
+.DomainList{
+    padding: .66rem 0;
+    text-align: center;
+    background-color: #040404;
+    font-family: cursive;
+    font-size: 2.5rem;
+    color: #efefef;
+}
