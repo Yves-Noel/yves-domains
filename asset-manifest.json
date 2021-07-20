@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/yves-domains/static/css/main.6302a06d.chunk.css",
+    "main.js": "/yves-domains/static/js/main.c5dbc7bf.chunk.js",
+    "main.js.map": "/yves-domains/static/js/main.c5dbc7bf.chunk.js.map",
+    "runtime-main.js": "/yves-domains/static/js/runtime-main.e357bbbb.js",
+    "runtime-main.js.map": "/yves-domains/static/js/runtime-main.e357bbbb.js.map",
+    "static/js/2.e3bea277.chunk.js": "/yves-domains/static/js/2.e3bea277.chunk.js",
+    "static/js/2.e3bea277.chunk.js.map": "/yves-domains/static/js/2.e3bea277.chunk.js.map",
+    "static/js/3.eda7e50a.chunk.js": "/yves-domains/static/js/3.eda7e50a.chunk.js",
+    "static/js/3.eda7e50a.chunk.js.map": "/yves-domains/static/js/3.eda7e50a.chunk.js.map",
+    "index.html": "/yves-domains/index.html",
+    "static/css/main.6302a06d.chunk.css.map": "/yves-domains/static/css/main.6302a06d.chunk.css.map",
+    "static/js/2.e3bea277.chunk.js.LICENSE.txt": "/yves-domains/static/js/2.e3bea277.chunk.js.LICENSE.txt",
+    "static/media/Search.css": "/yves-domains/static/media/background_search_mobile.8359c50f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e357bbbb.js",
+    "static/js/2.e3bea277.chunk.js",
+    "static/css/main.6302a06d.chunk.css",
+    "static/js/main.c5dbc7bf.chunk.js"
+  ]
+}
